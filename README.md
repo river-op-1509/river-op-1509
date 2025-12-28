@@ -1,16 +1,23 @@
-## Hi there 👋
+### user: river-op-1509
 
-<!--
-**river-op-1509/river-op-1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Class:** Front-end Developer <br>
+> **Location:** Amazonas, Brazil <br>
+> **Objective:** Precision in code and execution.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ **Active Projects**
+
+**Financly Dashboard**
+Sistema de gestão financeira pessoal com foco em visualização de dados.
+* `React` `Tailwind` `Vite`
+* [🔗 Ver Projeto Online](https://financly-dashboard.vercel.app)
+
+---
+
+### 💻 **Stack**
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
