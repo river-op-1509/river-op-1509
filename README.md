@@ -1,23 +1,24 @@
-### user: river-op-1509
+# >_ river-op-1509
 
-> **Class:** Front-end Developer <br>
-> **Location:** Amazonas, Brazil <br>
-> **Objective:** Precision in code and execution.
+> FuzNav, Operador & Dev em formação
 
----
-
-### ⚡ **Active Projects**
-
-**Financly Dashboard**
-Sistema de gestão financeira pessoal com foco em visualização de dados.
-* `React` `Tailwind` `Vite`
-* [🔗 Ver Projeto Online](https://financly-dashboard.vercel.app)
+Disciplina, logística e soluções táticas via código.
+Atualmente portando a mentalidade operacional para o desenvolvimento de software.
 
 ---
 
-### 💻 **Stack**
+### 🛠️ Arsenal (Tech Stack)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+### ⚡ Status Atual
+- 🔭 **Projeto Principal: Financly** Dashboard para gestão financeira pessoal.
+- 🎯 **Foco de Estudo:** Lógica de programação e automação com JS.
+
+---
+
+### 📡 Conexão
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/river-op-1509)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email_publico@exemplo.com)
